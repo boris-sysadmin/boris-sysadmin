@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud technologies
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on my team projects
-- 📫 How to reach me boris.s@shyftmoving.com
+- 📫 How to reach me boriss@blic.net
 
 <!---
 boris-sysadmin/boris-sysadmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
